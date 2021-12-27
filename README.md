@@ -1,8 +1,8 @@
-### Hi all, welcome to my profile 👋
+### Hi there ✌
 
 ### About Me 🙍‍♂️
 - From Chile 🌐
-- 24 years 👶
+- 25 years
 - Favorite Music Trap 🎵🎧
 <div>
     <a href="https://instagram.com/andrw_cl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,7 +17,7 @@
   <img alt="githubStats" style="vertical-align: middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairstyle&theme=discord_old_blurple&layout=compact&bg_color=DEB,4C4FA8,A02121" />
 </a>
 
-#### Frontend && Backend
+#### Lenguages
 <div style="display:inline-block;">
     <img alt="Html5" style="vertical-align: middle" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" >
     <img alt="CSS3" style="vertical-align: middle" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" >
@@ -30,7 +30,7 @@
     <img alt="Java" style="vertical-align: middle" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" >
 </div>
 
-#### IDE && Others
+#### IDE && Tools
 <div style="display:inline-block;">
     <img alt="PHPStorm" style="vertical-align: middle" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg" >
     <img alt="Visual Studio Code" style="vertical-align: middle" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" >
