@@ -17,3 +17,12 @@
   - Html
   - Js
   - Tailwindcss
+- [Advice generator app](https://github.com/fairstyle/frontendmentor-Advice-generator-app) ([ Live ](https://fairstyle.github.io/frontendmentor-Advice-generator-app/))
+  - Html
+  - Js
+  - Tailwindcss
+  - Sweetalert
+  - Api rest (With fetch)
+
+
+
