@@ -23,6 +23,9 @@
   - Tailwindcss
   - Sweetalert
   - Api rest (With fetch)
+- [Notifications page](https://github.com/fairstyle/frontendmentor-Notifications-page) ([ Live ](https://fairstyle.github.io/frontendmentor-Notifications-page/))
+  - Html
+  - Tailwindcss
 
 
 
