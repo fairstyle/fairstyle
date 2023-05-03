@@ -9,6 +9,15 @@
 
 ![Snake animation](https://github.com/fairstyle/fairstyle/blob/output/github-contribution-grid-snake.svg)
 
+### Vanillajs Packages
+- [Simlpe MultiSelectjs]
+  - Vanillajs
+  - CSS (Tailwindcss)
+  
+- [Simple Wizzardjs]
+  - Vanillajs 
+  - CSS (Tailwindcss)
+
 ### Frontendmentor Challenge ( [Github List](https://github.com/stars/fairstyle/lists/fontendmentor-challenge) )
 - [Product preview card component](https://github.com/fairstyle/frontendmentor-Product-preview-card-component) ([ Live ](https://fairstyle.github.io/frontendmentor-Product-preview-card-component/))
   - Html
