@@ -10,11 +10,11 @@
 ![Snake animation](https://github.com/fairstyle/fairstyle/blob/output/github-contribution-grid-snake.svg)
 
 ### Vanillajs Packages
-- [Simlpe MultiSelectjs]
+- [Simlpe MultiSelectjs] ([MultiSelectjs Docs](https://www.liamthomas.cl/vanilla-js-library/simple-multiselectjs))
   - Vanillajs
   - CSS (Tailwindcss)
-  
-- [Simple Wizzardjs]
+
+- [Simple Wizzardjs] ([Wizzardjs Docs](https://www.liamthomas.cl/vanilla-js-library/simple-wizzardjs))
   - Vanillajs 
   - CSS (Tailwindcss)
 
