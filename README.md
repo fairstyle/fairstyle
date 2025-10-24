@@ -2,21 +2,8 @@
 
 ### About Me 🙍‍♂️
 - From Chile 🌐
-- 26 years
+- 29 years
 - Favorite Music Trap 🎵🎧
-
-<a href="https://liamthomas.cl" target="_blank"><img src="https://img.shields.io/static/v1?label=Liamthomas%20Status&message=Online&color=green&style=for-the-badge&logo=AdGuard" target="_blank"></a>
-
-![Snake animation](https://github.com/fairstyle/fairstyle/blob/output/github-contribution-grid-snake.svg)
-
-### Vanillajs Packages
-- [Simlpe MultiSelectjs] ([MultiSelectjs Docs](https://www.liamthomas.cl/vanilla-js-library/simple-multiselectjs))
-  - Vanillajs
-  - CSS (Tailwindcss)
-
-- [Simple Wizzardjs] ([Wizzardjs Docs](https://www.liamthomas.cl/vanilla-js-library/simple-wizzardjs))
-  - Vanillajs 
-  - CSS (Tailwindcss)
 
 ### Frontendmentor Challenge ( [Github List](https://github.com/stars/fairstyle/lists/fontendmentor-challenge) )
 - [Product preview card component](https://github.com/fairstyle/frontendmentor-Product-preview-card-component) ([ Live ](https://fairstyle.github.io/frontendmentor-Product-preview-card-component/))
